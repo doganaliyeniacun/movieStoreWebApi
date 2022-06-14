@@ -1,5 +1,5 @@
 # MovieStore WebApi Repo
-Örnek Web Api 
+**Örnek Web Api**
 
 ## Installation
 
